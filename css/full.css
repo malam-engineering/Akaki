@@ -1,0 +1,206 @@
+/*!
+ * METEC Official Website
+ * Website: www.metec.gov.et
+ * Designed for Akaki Metals Engineering
+ * Designed by : Merhawi Fissehaye
+ * Date : December 7, 2015
+ * Intended Media : Web browser
+ */
+
+/**********************************
+        COLOR
+**********************************/
+.black-text,
+#links a,
+#links h1,
+#BLACK-TEXT {
+    color: #6d6d6d;
+}
+
+.grey-text,
+footer li a,
+footer p,
+#GREY-TEXT {
+    color: #747474;
+}
+
+.white-text,
+nav.navbar .navbar-nav li a,
+#slider h1.slide-title,
+#slider p.slide-description,
+#WHITE-TEXT {
+    color: #fff;
+}
+
+.green-text,
+nav.navbar .navbar-header .navbar-brand,
+nav.navbar .navbar-nav li a:hover,
+nav.navbar .navbar-nav li a:focus,
+#GREEN-TEXT {
+    color: #00904f;
+}
+
+/**********************************
+        FONT SIZE
+**********************************/
+.heading-text-size,
+#slider h1,
+#links h1,
+nav.navbar li a,
+nav.navbar .navbar-brand,
+#HEADING_TEXT-SIZE {
+    font-size: 24px;
+}
+
+/**********************************
+        FONT STYLE
+**********************************/
+.text-upper,
+#slider h1,
+#links h1,
+nav.navbar .navbar-brand,
+nav.navbar li a,
+#topper li a,
+#TEXT-UPPER {
+    text-transform: uppercase;
+}
+
+.taller-line,
+nav.navbar .navbar-brand,
+#TALLER-LINE {
+    line-height: 1.3;
+}
+
+.xtra-taller-line,
+#slider h1,
+#links li,
+#XTRA-TALLER-LINE {
+    line-height: 1.8;
+}
+
+/**********************************
+        FONT FAMILY
+**********************************/
+.special-text-font,
+#slider h1,
+#links h1,
+nav.navbar li a,
+nav.navbar .navbar-brand,
+#topper li a,
+#SPECIAL-TEXT-FONT {
+    font-family: 'Oswald', sans-serif;
+}
+
+.normal-text-font,
+body,
+#NORMAL-TEXT-FONT {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/**********************************
+        BACKGROUND
+**********************************/
+.grey-bg-box,
+body,
+#GREY-BG-BOX {
+    background: #e1e1e1;
+}
+
+.black-bg-box,
+#slider,
+#BLACK-BG-BOX { background: #252525; }
+
+.green-bg-box,
+nav.navbar,
+#GREEN-BG-BOX {background: #70ae92; }
+
+.white-bg-box,
+footer,
+#WHITE-BG-BOX {background: #fff; }
+
+/**********************************
+        PADDING
+**********************************/
+.little-gap-left,
+#links .links-list,
+#LITTLE-GAP-LEFT {
+    padding-left: 30px;
+}
+
+/**********************************
+        RESET BOOTSTRAP
+**********************************/
+.navbar-border-reset,
+nav.navbar,
+#NAVBAR-BORDER-RESET {
+    border: none;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+}
+
+.taller-navbar,
+nav.navbar,
+#TALLER-NAVBAR {
+    height: 100px;
+}
+
+.shorter-navbar,
+#topper,
+#SHORTER-NAVBAR {
+    height: 30px;
+}
+    .shorter-navbar-link-padding,
+    #topper li a,
+    #SHORTER-NAVBAR-LINK-PADDING {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .smaller-navbar-links,
+    #topper li a,
+    #SMALLER-NAVBAR-LINKS {
+        font-size: 10px;
+    }
+
+.navbar-links-no-hover-background,
+footer li a,
+#NAVBAR-LINKS-NO-HOVER-BACKGROUND {
+    background: none !important;
+}
+
+.shift-top-brand,
+nav.navbar .navbar-brand,
+#SHIFT-TOP-BRAND {
+    position: relative;
+    top: -10px;
+}
+
+.navbar-no-bottom-margin,
+.navbar,
+#NAVBAR-NO-BOTTOM-MARGIN {
+    margin-bottom: 0;
+}
+
+/**********************************
+        PAGE SPECIFIC
+**********************************/
+.image-border,
+#slider img,
+#IMAGE-BORDER {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: solid 15px #474747;
+}
+
+.medium-padding,
+#slider,
+#MEDIUM-PADDING {
+    padding: 30px;
+}
+
+.x-xtra-large-padding,
+#slider .item .slide-description,
+#X-xtra-LARGE-PADDING {
+    padding: 0 150px;
+}
